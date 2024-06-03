@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA4699C-2F65-4E40-AB0B-26334764EFB4}|Media\\Media.csproj|e:\\aulas\\10_t\\m08\\exercicios\\media\\media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA4699C-2F65-4E40-AB0B-26334764EFB4}|Media\\Media.csproj|solutionrelative:media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA4699C-2F65-4E40-AB0B-26334764EFB4}|Media\\Media.csproj|E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFA4699C-2F65-4E40-AB0B-26334764EFB4}|Media\\Media.csproj|solutionrelative:media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA4699C-2F65-4E40-AB0B-26334764EFB4}|Media\\Media.csproj|E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\media\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA4699C-2F65-4E40-AB0B-26334764EFB4}|Media\\Media.csproj|solutionrelative:media\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\Media\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Media\\Form1.Designer.cs",
+              "ToolTip": "E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\Media\\Form1.Designer.cs",
+              "RelativeToolTip": "Media\\Form1.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:27:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\Media\\Form1.cs",
+              "RelativeDocumentMoniker": "Media\\Form1.cs",
+              "ToolTip": "E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\Media\\Form1.cs",
+              "RelativeToolTip": "Media\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:23:54.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\Media\\Form1.cs",
+              "RelativeDocumentMoniker": "Media\\Form1.cs",
+              "ToolTip": "E:\\Aulas\\10_T\\M08\\Exercicios\\Media\\Media\\Form1.cs [Design]",
+              "RelativeToolTip": "Media\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:52:37.556Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

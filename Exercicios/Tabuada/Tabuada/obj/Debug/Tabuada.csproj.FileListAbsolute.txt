@@ -1,0 +1,10 @@
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.Form1.resources
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+E:\Aulas\10_T\M08\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.pdb

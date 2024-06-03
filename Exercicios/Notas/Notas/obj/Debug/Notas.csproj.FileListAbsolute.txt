@@ -1,0 +1,10 @@
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\bin\Debug\Notas.exe.config
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\bin\Debug\Notas.exe
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\bin\Debug\Notas.pdb
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\obj\Debug\Notas.Form1.resources
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\obj\Debug\Notas.Properties.Resources.resources
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\obj\Debug\Notas.exe
+E:\Aulas\10_T\M08\Exercicios\Notas\Notas\obj\Debug\Notas.pdb

@@ -1,0 +1,10 @@
+E:\Aulas\10_T\M08\Exercicios\Media\Media\bin\Debug\Media.exe.config
+E:\Aulas\10_T\M08\Exercicios\Media\Media\bin\Debug\Media.exe
+E:\Aulas\10_T\M08\Exercicios\Media\Media\bin\Debug\Media.pdb
+E:\Aulas\10_T\M08\Exercicios\Media\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+E:\Aulas\10_T\M08\Exercicios\Media\Media\obj\Debug\Media.Form1.resources
+E:\Aulas\10_T\M08\Exercicios\Media\Media\obj\Debug\Media.Properties.Resources.resources
+E:\Aulas\10_T\M08\Exercicios\Media\Media\obj\Debug\Media.csproj.GenerateResource.cache
+E:\Aulas\10_T\M08\Exercicios\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+E:\Aulas\10_T\M08\Exercicios\Media\Media\obj\Debug\Media.exe
+E:\Aulas\10_T\M08\Exercicios\Media\Media\obj\Debug\Media.pdb
