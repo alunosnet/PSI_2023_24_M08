@@ -61,6 +61,7 @@
             this.lb_tabuada.Name = "lb_tabuada";
             this.lb_tabuada.Size = new System.Drawing.Size(222, 212);
             this.lb_tabuada.TabIndex = 2;
+            this.lb_tabuada.SelectedIndexChanged += new System.EventHandler(this.lb_tabuada_SelectedIndexChanged);
             // 
             // button1
             // 

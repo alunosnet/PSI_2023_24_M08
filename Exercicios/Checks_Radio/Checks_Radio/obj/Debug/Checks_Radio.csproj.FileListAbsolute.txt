@@ -1,0 +1,10 @@
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\bin\Debug\Checks_Radio.exe.config
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\bin\Debug\Checks_Radio.exe
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\bin\Debug\Checks_Radio.pdb
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\obj\Debug\Checks_Radio.csproj.AssemblyReference.cache
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\obj\Debug\Checks_Radio.Form1.resources
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\obj\Debug\Checks_Radio.Properties.Resources.resources
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\obj\Debug\Checks_Radio.csproj.GenerateResource.cache
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\obj\Debug\Checks_Radio.csproj.CoreCompileInputs.cache
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\obj\Debug\Checks_Radio.exe
+E:\Aulas\10_T\M08\Exercicios\Checks_Radio\Checks_Radio\obj\Debug\Checks_Radio.pdb

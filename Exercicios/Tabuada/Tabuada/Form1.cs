@@ -51,9 +51,29 @@ namespace Tabuada
 
         private void tb_numero_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (char.IsDigit(e.KeyChar) == false)
+            if (char.IsDigit(e.KeyChar) == false 
+                && char.IsControl(e.KeyChar)==false)
             {
                 e.Handled = true;   //cancelar o evento e o digito não é adicionado à tb
+            }
+        }
+
+        private void lb_tabuada_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //qual o elemento selecionado na lb
+            int posicao=lb_tabuada.SelectedIndex;
+            if (posicao == -1)
+            {
+                //MessageBox.Show("Tem de selecionar um elemento", "Erro");
+                return;
+            }
+            string texto=lb_tabuada.Items[posicao].ToString();
+            DialogResult resposta = MessageBox.Show($"Tem a certeza que pretende remover {texto} ?", 
+                "Remover elemento", MessageBoxButtons.YesNo);
+            if (resposta == DialogResult.Yes)
+            {
+                //remover o elemento selecionado
+                lb_tabuada.Items.RemoveAt(posicao);
             }
         }
     }
