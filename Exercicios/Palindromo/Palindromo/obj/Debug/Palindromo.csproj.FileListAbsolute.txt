@@ -1,0 +1,11 @@
+E:\source\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+E:\source\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+E:\source\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.AssemblyReference.cache
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.f_principal.resources
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.f_splash.resources
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.Properties.Resources.resources
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.GenerateResource.cache
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+E:\source\Palindromo\Palindromo\obj\Debug\Palindromo.pdb

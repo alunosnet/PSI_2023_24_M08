@@ -31,17 +31,18 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.rb_ativo = new System.Windows.Forms.RadioButton();
+            this.rb_bloqueado = new System.Windows.Forms.RadioButton();
             this.label4 = new System.Windows.Forms.Label();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.ckb_admin = new System.Windows.Forms.CheckBox();
+            this.ckb_cliente = new System.Windows.Forms.CheckBox();
+            this.ckb_gestor = new System.Windows.Forms.CheckBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            this.tb_nome = new System.Windows.Forms.TextBox();
+            this.nd_idade = new System.Windows.Forms.NumericUpDown();
+            this.lb_mensagem = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.nd_idade)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -71,27 +72,27 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "Estado da conta:";
             // 
-            // radioButton1
+            // rb_ativo
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(212, 135);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(49, 17);
-            this.radioButton1.TabIndex = 3;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Ativo";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.rb_ativo.AutoSize = true;
+            this.rb_ativo.Checked = true;
+            this.rb_ativo.Location = new System.Drawing.Point(212, 135);
+            this.rb_ativo.Name = "rb_ativo";
+            this.rb_ativo.Size = new System.Drawing.Size(49, 17);
+            this.rb_ativo.TabIndex = 3;
+            this.rb_ativo.TabStop = true;
+            this.rb_ativo.Text = "Ativo";
+            this.rb_ativo.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // rb_bloqueado
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(324, 135);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(76, 17);
-            this.radioButton2.TabIndex = 4;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Bloqueado";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.rb_bloqueado.AutoSize = true;
+            this.rb_bloqueado.Location = new System.Drawing.Point(324, 135);
+            this.rb_bloqueado.Name = "rb_bloqueado";
+            this.rb_bloqueado.Size = new System.Drawing.Size(76, 17);
+            this.rb_bloqueado.TabIndex = 4;
+            this.rb_bloqueado.Text = "Bloqueado";
+            this.rb_bloqueado.UseVisualStyleBackColor = true;
             // 
             // label4
             // 
@@ -102,89 +103,116 @@
             this.label4.TabIndex = 5;
             this.label4.Text = "Perfil de utilizador";
             // 
-            // checkBox1
+            // ckb_admin
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(212, 190);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(89, 17);
-            this.checkBox1.TabIndex = 6;
-            this.checkBox1.Text = "Administrador";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.ckb_admin.AutoSize = true;
+            this.ckb_admin.Location = new System.Drawing.Point(210, 184);
+            this.ckb_admin.Name = "ckb_admin";
+            this.ckb_admin.Size = new System.Drawing.Size(89, 17);
+            this.ckb_admin.TabIndex = 6;
+            this.ckb_admin.Text = "Administrador";
+            this.ckb_admin.UseVisualStyleBackColor = true;
             // 
-            // checkBox2
+            // ckb_cliente
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(324, 190);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(58, 17);
-            this.checkBox2.TabIndex = 7;
-            this.checkBox2.Text = "Cliente";
-            this.checkBox2.UseVisualStyleBackColor = true;
+            this.ckb_cliente.AutoSize = true;
+            this.ckb_cliente.Location = new System.Drawing.Point(322, 184);
+            this.ckb_cliente.Name = "ckb_cliente";
+            this.ckb_cliente.Size = new System.Drawing.Size(58, 17);
+            this.ckb_cliente.TabIndex = 7;
+            this.ckb_cliente.Text = "Cliente";
+            this.ckb_cliente.UseVisualStyleBackColor = true;
             // 
-            // checkBox3
+            // ckb_gestor
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(408, 190);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(57, 17);
-            this.checkBox3.TabIndex = 8;
-            this.checkBox3.Text = "Gestor";
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.ckb_gestor.AutoSize = true;
+            this.ckb_gestor.Location = new System.Drawing.Point(406, 184);
+            this.ckb_gestor.Name = "ckb_gestor";
+            this.ckb_gestor.Size = new System.Drawing.Size(57, 17);
+            this.ckb_gestor.TabIndex = 8;
+            this.ckb_gestor.Text = "Gestor";
+            this.ckb_gestor.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(96, 275);
+            this.button1.Location = new System.Drawing.Point(80, 320);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(179, 59);
             this.button1.TabIndex = 9;
             this.button1.Text = "Limpar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(324, 275);
+            this.button2.Location = new System.Drawing.Point(308, 320);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(173, 59);
             this.button2.TabIndex = 10;
             this.button2.Text = "Validar";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // textBox1
+            // tb_nome
             // 
-            this.textBox1.Location = new System.Drawing.Point(212, 49);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(230, 20);
-            this.textBox1.TabIndex = 11;
+            this.tb_nome.Location = new System.Drawing.Point(212, 49);
+            this.tb_nome.MaxLength = 50;
+            this.tb_nome.Name = "tb_nome";
+            this.tb_nome.Size = new System.Drawing.Size(230, 20);
+            this.tb_nome.TabIndex = 11;
             // 
-            // numericUpDown1
+            // nd_idade
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(212, 90);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(101, 20);
-            this.numericUpDown1.TabIndex = 12;
+            this.nd_idade.Location = new System.Drawing.Point(212, 90);
+            this.nd_idade.Maximum = new decimal(new int[] {
+            80,
+            0,
+            0,
+            0});
+            this.nd_idade.Minimum = new decimal(new int[] {
+            18,
+            0,
+            0,
+            0});
+            this.nd_idade.Name = "nd_idade";
+            this.nd_idade.Size = new System.Drawing.Size(101, 20);
+            this.nd_idade.TabIndex = 12;
+            this.nd_idade.Value = new decimal(new int[] {
+            18,
+            0,
+            0,
+            0});
+            // 
+            // lb_mensagem
+            // 
+            this.lb_mensagem.AutoSize = true;
+            this.lb_mensagem.Location = new System.Drawing.Point(91, 223);
+            this.lb_mensagem.Name = "lb_mensagem";
+            this.lb_mensagem.Size = new System.Drawing.Size(0, 13);
+            this.lb_mensagem.TabIndex = 13;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(605, 406);
-            this.Controls.Add(this.numericUpDown1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.lb_mensagem);
+            this.Controls.Add(this.nd_idade);
+            this.Controls.Add(this.tb_nome);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.checkBox3);
-            this.Controls.Add(this.checkBox2);
-            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.ckb_gestor);
+            this.Controls.Add(this.ckb_cliente);
+            this.Controls.Add(this.ckb_admin);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.radioButton2);
-            this.Controls.Add(this.radioButton1);
+            this.Controls.Add(this.rb_bloqueado);
+            this.Controls.Add(this.rb_ativo);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nd_idade)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -195,16 +223,17 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.RadioButton rb_ativo;
+        private System.Windows.Forms.RadioButton rb_bloqueado;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox checkBox3;
+        private System.Windows.Forms.CheckBox ckb_admin;
+        private System.Windows.Forms.CheckBox ckb_cliente;
+        private System.Windows.Forms.CheckBox ckb_gestor;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.TextBox tb_nome;
+        private System.Windows.Forms.NumericUpDown nd_idade;
+        private System.Windows.Forms.Label lb_mensagem;
     }
 }
 

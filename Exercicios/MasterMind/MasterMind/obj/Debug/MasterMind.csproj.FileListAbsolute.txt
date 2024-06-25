@@ -1,0 +1,11 @@
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.AssemblyReference.cache
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.Form1.resources
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.f_sobre.resources
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+E:\Aulas\10_T\M08\Exercicios\MasterMind\MasterMind\obj\Debug\MasterMind.pdb

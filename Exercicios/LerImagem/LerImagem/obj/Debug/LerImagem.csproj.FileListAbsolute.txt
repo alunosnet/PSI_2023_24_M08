@@ -1,0 +1,10 @@
+E:\source\LerImagem\LerImagem\bin\Debug\LerImagem.exe.config
+E:\source\LerImagem\LerImagem\bin\Debug\LerImagem.exe
+E:\source\LerImagem\LerImagem\bin\Debug\LerImagem.pdb
+E:\source\LerImagem\LerImagem\obj\Debug\LerImagem.csproj.AssemblyReference.cache
+E:\source\LerImagem\LerImagem\obj\Debug\LerImagem.Form1.resources
+E:\source\LerImagem\LerImagem\obj\Debug\LerImagem.Properties.Resources.resources
+E:\source\LerImagem\LerImagem\obj\Debug\LerImagem.csproj.GenerateResource.cache
+E:\source\LerImagem\LerImagem\obj\Debug\LerImagem.csproj.CoreCompileInputs.cache
+E:\source\LerImagem\LerImagem\obj\Debug\LerImagem.exe
+E:\source\LerImagem\LerImagem\obj\Debug\LerImagem.pdb

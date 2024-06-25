@@ -1,0 +1,10 @@
+E:\source\exercicio_4numeros\exercicio_4numeros\bin\Debug\exercicio_4numeros.exe.config
+E:\source\exercicio_4numeros\exercicio_4numeros\bin\Debug\exercicio_4numeros.exe
+E:\source\exercicio_4numeros\exercicio_4numeros\bin\Debug\exercicio_4numeros.pdb
+E:\source\exercicio_4numeros\exercicio_4numeros\obj\Debug\exercicio_4numeros.csproj.AssemblyReference.cache
+E:\source\exercicio_4numeros\exercicio_4numeros\obj\Debug\exercicio_4numeros.Form1.resources
+E:\source\exercicio_4numeros\exercicio_4numeros\obj\Debug\exercicio_4numeros.Properties.Resources.resources
+E:\source\exercicio_4numeros\exercicio_4numeros\obj\Debug\exercicio_4numeros.csproj.GenerateResource.cache
+E:\source\exercicio_4numeros\exercicio_4numeros\obj\Debug\exercicio_4numeros.csproj.CoreCompileInputs.cache
+E:\source\exercicio_4numeros\exercicio_4numeros\obj\Debug\exercicio_4numeros.exe
+E:\source\exercicio_4numeros\exercicio_4numeros\obj\Debug\exercicio_4numeros.pdb

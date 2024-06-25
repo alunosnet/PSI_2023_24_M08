@@ -1,0 +1,10 @@
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\bin\Debug\Exercicio_numeros.exe.config
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\bin\Debug\Exercicio_numeros.exe
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\bin\Debug\Exercicio_numeros.pdb
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\obj\Debug\Exercicio_numeros.csproj.AssemblyReference.cache
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\obj\Debug\Exercicio_numeros.Form1.resources
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\obj\Debug\Exercicio_numeros.Properties.Resources.resources
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\obj\Debug\Exercicio_numeros.csproj.GenerateResource.cache
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\obj\Debug\Exercicio_numeros.csproj.CoreCompileInputs.cache
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\obj\Debug\Exercicio_numeros.exe
+E:\Aulas\10_T\M08\Exercicios\Exercicio_numeros\Exercicio_numeros\obj\Debug\Exercicio_numeros.pdb

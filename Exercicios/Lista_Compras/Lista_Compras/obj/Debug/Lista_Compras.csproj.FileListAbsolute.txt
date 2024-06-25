@@ -1,0 +1,10 @@
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\bin\Debug\Lista_Compras.exe.config
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\bin\Debug\Lista_Compras.exe
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\bin\Debug\Lista_Compras.pdb
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.csproj.AssemblyReference.cache
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.Form1.resources
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.Properties.Resources.resources
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.csproj.GenerateResource.cache
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.csproj.CoreCompileInputs.cache
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.exe
+E:\Aulas\10_T\M08\Exercicios\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.pdb

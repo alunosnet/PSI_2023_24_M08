@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\LerImagem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCF428-6119-49F3-AB7C-A9F70BCB843A}|LerImagem\\LerImagem.csproj|e:\\source\\lerimagem\\lerimagem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DCF428-6119-49F3-AB7C-A9F70BCB843A}|LerImagem\\LerImagem.csproj|solutionrelative:lerimagem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DCF428-6119-49F3-AB7C-A9F70BCB843A}|LerImagem\\LerImagem.csproj|e:\\source\\lerimagem\\lerimagem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9DCF428-6119-49F3-AB7C-A9F70BCB843A}|LerImagem\\LerImagem.csproj|solutionrelative:lerimagem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\source\\LerImagem\\LerImagem\\Form1.cs",
+              "RelativeDocumentMoniker": "LerImagem\\Form1.cs",
+              "ToolTip": "E:\\source\\LerImagem\\LerImagem\\Form1.cs",
+              "RelativeToolTip": "LerImagem\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAASwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:45:17.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\source\\LerImagem\\LerImagem\\Form1.cs",
+              "RelativeDocumentMoniker": "LerImagem\\Form1.cs",
+              "ToolTip": "E:\\source\\LerImagem\\LerImagem\\Form1.cs [Design]",
+              "RelativeToolTip": "LerImagem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:42:44.993Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
