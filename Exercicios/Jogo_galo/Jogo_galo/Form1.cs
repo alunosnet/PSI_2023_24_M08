@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace Jogo_galo
 {
+
+   
     public partial class Form1 : Form
     {
         bool PlayerAtual = true;
